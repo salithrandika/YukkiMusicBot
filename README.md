@@ -16,6 +16,11 @@ A Powerful Telegram Music+Video Bot by which you can stream songs, videos and ev
 ## Deployment
 Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/requirements) for Detailed Description and Setup Guide on deploying Bot.
 
+# 🏃‍♂️ Easy Deploy 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/salithrandika/KirigayaX.git)
+
+
 > Click on buttons to expand!
 <details>
 <summary><b>🔗 Requirements</b></summary>
